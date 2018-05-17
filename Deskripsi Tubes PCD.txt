@@ -1,0 +1,29 @@
+Tugas Besar MK PCD
+Febry Ghaisani - 1301154576
+
+1. Fungsi yang beres & jalan :
+- open image
+- reset image
+- grayscale
+- invers
+- edge detection
+- sharpening
+- blurring
+- zoom in, zoom out
+- rotate 90,180,270
+- flip horizontal, flip vertikal
+- Histogram grayscale, rgb
+- segmentasi threshold
+- filtering mean, median, modus
+- dilasi, erosi
+- crop
+- brightness (kurang, tambah, bagi, kali)
+
+2. Fungsi yang beres tetapi tidak jalan :
+- segmentasi dg region growth (hanya bisa gambar tertentu)
+
+3. Fungsi yang tidak selesai :
+tidak ada
+
+4. FUngsi yang tidak dikerjakan :
+tidak ada
